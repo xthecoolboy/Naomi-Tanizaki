@@ -5,7 +5,7 @@
   "description": "discord bot",
   "main": "bot.js",
   "scripts": {
-    "test": "npm run lint",
+    "start": "node bot.js",
     "lint": "eslint ."
   },
   "repository": "git+https://github.com/iSm1le/Naomi-Tanizaki.git",
